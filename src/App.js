@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         First workflow check
+         First workflow check, hello world
         </p>
         <a
           className="App-link"
