@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         AFTER EDIT THE MAIN BRANCH RULES
+         This is from Docker container
         </p>
         <a
           className="App-link"
