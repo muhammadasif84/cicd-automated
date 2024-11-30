@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         First workflow check, hello world
+         AFTER EDIT THE MAIN BRANCH RULES
         </p>
         <a
           className="App-link"
